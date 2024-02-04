@@ -1,6 +1,10 @@
 # R36S Outline
 Custom boot and loading screen for the R36S Handheld Gaming Console.
 
+![logo.bmp](https://raw.githubusercontent.com/sect2k/r36s-outline/main/logo.bmp "Boot logo")
+
+![loading.jpg](https://raw.githubusercontent.com/sect2k/r36s-outline/main/loading.jpg "Loading screen")
+
 ## Installation
 Copy the following files to your system's SD card. Consider backing up existing files before proceeding.
 
